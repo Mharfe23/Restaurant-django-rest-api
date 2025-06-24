@@ -1,0 +1,5 @@
+Group              Token                                          username
+
+Customer           cc65fd752f239937f0161bddeb0a0209a1c018dd       Customer1
+Manager            dc16176dab954e159c44b3b9d058571f3ebd0af3       taha
+Delivery-crew      27e39ad4251adeceea520bab546d0fc9c4613139       NotM
