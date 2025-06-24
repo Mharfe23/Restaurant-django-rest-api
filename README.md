@@ -37,7 +37,7 @@ Follow these steps to get the project up and running on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/Mharfe23/Restaurant-django-rest-api
     cd Restaurant-django-rest-api
     ```
 
