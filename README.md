@@ -17,7 +17,6 @@ This is a RESTful API for a restaurant. It provides endpoints for browsing menu 
 
 ## Technologies Used
 
--   Python
 -   Django
 -   Django REST Framework
 -   Djoser (for user registration and authentication)
@@ -51,7 +50,7 @@ Follow these steps to get the project up and running on your local machine.
     ```
 
 3.  **Install dependencies:**
-    A `requirements.txt` file is not included. You can create one and install the packages.
+    install the packages.
     ```bash
     pip install django djangorestframework djoser
     ```
